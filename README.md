@@ -1,1 +1,3 @@
 # EDA-of-auto-market
+Hundreds of free advertisements for vehicles published on Crankshaft List site have been studied to determine which factors influence the price of a vehicle.  
+The main facrors affecting the price on the automarket are condition of the vehicle, milage, date of manufacturing, color of the vehicle, does the car have the warranty/extended warranty and has it or not been serviced under the warranty by its dealer, wether the car was in accidents, how many owners does it had in past and who they were: individuals or legal entities. All of this factors mights have different affect on car price and we are going to search for any possible correletaions between this factors and the price of the vehicles on the market.
